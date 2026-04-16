@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gateway-processor-5773
+  namespace: MendPerformance
+  annotations:
+    github.com/project-slug: MendPerformance/gateway-processor-5773
+spec:
+  type: service
+  lifecycle: unknown
+  owner: mend.io
